@@ -295,9 +295,7 @@ h2 {
 .timer {
   font-weight: 600;
 }
-table,
-td,
-th {
+table {
   border: 1px solid black;
   border-collapse: collapse;
   border-style: solid;
